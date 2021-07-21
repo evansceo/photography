@@ -7,7 +7,7 @@ Development Installation
 To get the code..
 https://github.com/evansceo/photography.git
 Cloning the repository:
-https://github.com/evansceo/photography.git
+https://evansceo.github.io/photography/
 Technology used
 html,css
 VScode
